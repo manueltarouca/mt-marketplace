@@ -1,0 +1,5 @@
+{
+  "name": "eza-plugin",
+  "description": "Modern replacement for ls with colors, icons, git status, and tree views",
+  "version": "1.0.0"
+}

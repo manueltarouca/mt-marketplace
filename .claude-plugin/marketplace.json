@@ -1,0 +1,25 @@
+{
+  "name": "mt-marketplace",
+  "owner": {
+    "name": "Manuel Tarouca",
+    "email": "manueltarouca@github"
+  },
+  "metadata": {
+    "description": "Mr. M's personal Claude Code plugin marketplace",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "eza-plugin",
+      "source": "./plugins/eza-plugin",
+      "description": "Modern replacement for ls with colors, icons, git status, and tree views. Use when listing files, exploring directories, viewing file metadata, or when the user mentions eza, ls alternatives, directory listings, or file exploration.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Manuel Tarouca"
+      },
+      "category": "developer-tools",
+      "tags": ["eza", "ls", "files", "directory", "tree"]
+    }
+  ]
+}
